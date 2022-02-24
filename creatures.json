@@ -33,6 +33,7 @@
 	"amargasaurus":{
 		"name_t":{
 			"ru":"Амаргазавр"
+			"zh":"阿马加龙"
 		}
 	},
 	"ammonite":{
@@ -562,6 +563,7 @@
 	"dinopithecus":{
 		"name_t":{
 			"ru":"Динопитек"
+			"zh":"恐猿"
 		}
 	},
 	"diplocaulus":{
