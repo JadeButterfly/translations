@@ -10707,6 +10707,9 @@ var languages = {
 			name:"公子月"
 		},{
 			name:"aCJ_Legend (English name), 带坑 (Chinese name)"
+		},{
+			name:"玉蝴蝶",
+			link:"https://github.com/JadeButterfly"
 		}]
 	}
 }
